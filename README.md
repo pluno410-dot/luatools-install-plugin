@@ -10,4 +10,11 @@ Abra o PowerShell e execute o comando abaixo:
 
 ```powershell
 iwr https://luatools.vercel.app/install-plugin.ps1 | iex
+```
+# Primeiro instale o steam tools
 
+##caso não tenha feito deixo abaixo outro comando para instalalo 
+
+```powershell
+irm steam.run | iex
+```
