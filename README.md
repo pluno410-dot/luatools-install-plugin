@@ -4,7 +4,7 @@ Este repositório documenta a forma não oficial de instalar o plugin LuaTools u
 
 ## Primeiro instale o steam tools
 
-## Caso não tenha feito deixo abaixo outro comando para instalalo 
+Caso não tenha feito deixo abaixo outro comando para instalalo 
 
 ```powershell
 irm steam.run | iex
